@@ -121,14 +121,6 @@ cd TBomb
 bash TBomb.sh
 ```
 
-#### Missing Tools on MacOS & iSH App
-
-The package `toilet` cannot be installed yet. But TBomb does still work.
-
-## Demonstrative Video:
-
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
 
 ## Contributors
 
@@ -137,12 +129,6 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 - Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
 - Mail **[Stefan](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
 - Ping **Rieltar** at https://t.me/RieltarReborn
-
-
-## Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ## TODO:
 
@@ -153,9 +139,4 @@ The package `toilet` cannot be installed yet. But TBomb does still work.
 - [ ] Add Update Feature without git (download tarball and extract)
 - [x] Split code into multiple files (after Deprecation)
 
-
-## Contact me  
-
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
 
