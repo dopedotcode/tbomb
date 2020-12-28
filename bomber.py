@@ -141,7 +141,7 @@ def pretty_print(cc, target, success, failed):
     mesgdcrt.GeneralMessage("Failed       : " + str(failed))
     mesgdcrt.WarningMessage(
         "This tool was made for fun and research purposes only")
-    mesgdcrt.SuccessMessage("TBomb was created by SpeedX, modifided my uhiSab")
+    mesgdcrt.SuccessMessage("TBomb was created by SpeedX, modifided by dopedotcode")
 
 
 def workernode(mode, cc, target, count, delay, max_threads):
